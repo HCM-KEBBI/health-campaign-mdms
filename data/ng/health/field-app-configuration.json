@@ -148,6 +148,10 @@
         {
           "name": "Health Facility Assessment",
           "code": "HF_ASMT"
+        },
+        {
+          "name": "ELIGIBLITY_ASSESSMENT",
+          "code": "ELIGIBLITY_ASSESSMENT"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
