@@ -18967,6 +18967,12 @@
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "sn"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "sn"
     }
   ]
 }
