@@ -19021,6 +19021,42 @@
       "actionid": 1932,
       "actioncode": "",
       "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1660,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1661,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1589,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantid": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantid": "ng"
     }
   ]
 }
