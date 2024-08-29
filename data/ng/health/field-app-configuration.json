@@ -150,6 +150,14 @@
           "code": "HF_ASMT"
         },
         {
+          "name": "CDD_PERFORM_ASMT",
+          "code": "CDD_PERFORM_ASMT"
+        },
+        {
+          "name": "HFW_PERFORM_ASMT",
+          "code": "HFW_PERFORM_ASMT"
+        },
+        {
           "name": "ELIGIBLITY_ASSESSMENT",
           "code": "ELIGIBLITY_ASSESSMENT"
         }
