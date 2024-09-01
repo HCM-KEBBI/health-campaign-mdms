@@ -191,7 +191,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": "30",
           "startDate": 1724544000000,
-          "endDate": 1724976000000,
+          "endDate": 1727720999000,
           "id": 3,
           "deliveries": [
             {
@@ -457,7 +457,7 @@
       ],
       "observationStrategy": "DOT1",
       "validMinAge": 3,
-      "validMaxAge": 59,
+      "validMaxAge": 62,
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
@@ -628,7 +628,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": "30",
           "startDate": 1724544000000,
-          "endDate": 1724976000000,
+          "endDate": 1727720999000,
           "id": 3,
           "deliveries": [
             {
