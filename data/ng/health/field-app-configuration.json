@@ -138,12 +138,8 @@
           "code": "HF_RF_FEVER"
         },
         {
-          "name": "HF_RF_DRUG_SE_PC",
-          "code": "HF_RF_DRUG_SE_PC"
-        },
-        {
-          "name": "HF_RF_DRUG_SE_CC",
-          "code": "HF_RF_DRUG_SE_CC"
+          "name": "HF_RF_DRUG_SE",
+          "code": "HF_RF_DRUG_SE"
         },
         {
           "name": "Health Facility Assessment",
