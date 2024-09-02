@@ -214,12 +214,12 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
         {
-          "code": "ADMINISTRATION_SUCCESSFUL",
-          "name": "Readministração com sucesso"
+          "code": "VOMITING",
+          "name": "vomiting"
         },
         {
-          "code": "ADMINISTRATION_NOT_SUCCESSFUL",
-          "name": "Readministração sem sucesso"
+          "code": "OTHERS",
+          "name": "others"
         }
       ],
       "TRANSPORT_TYPES": [
