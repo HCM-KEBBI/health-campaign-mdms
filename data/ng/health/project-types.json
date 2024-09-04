@@ -3,7 +3,7 @@
   "moduleName": "HCM-PROJECT-TYPES",
   "projectTypes": [
     {
-      "id": "644c4356-5214-11ee-be56-0242ac120002",
+      "id": "644c4356-5214-11ee-be56-0242ac120009",
       "name": "configuration for Multi Round Campaigns",
       "code": "MR-DN",
       "group": "MALARIA",
@@ -389,8 +389,8 @@
           },
           {
             "level": 6,
-            "label": "Settlement",
-            "indexLabel": "settlement"
+            "label": "Community",
+            "indexLabel": "community"
           }
         ],
         "aggregateTarget": {
@@ -826,8 +826,8 @@
           },
           {
             "level": 6,
-            "label": "Settlement",
-            "indexLabel": "settlement"
+            "label": "Community",
+            "indexLabel": "community"
           }
         ],
         "aggregateTarget": {

@@ -60,22 +60,22 @@
                           {
                             "id": "settlement1",
                             "boundaryNum": 6,
-                            "name": "Settlement 1",
-                            "localname": "Settlement 1",
+                            "name": "Community 1",
+                            "localname": "Community 1",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Settlement",
+                            "label": "Community",
                             "code": "settlement1",
                             "children": []
                           },
                           {
                             "id": "settlement2",
                             "boundaryNum": 6,
-                            "name": "Settlement 2",
-                            "localname": "Settlement 2",
+                            "name": "Community 2",
+                            "localname": "Community 2",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Settlement",
+                            "label": "Community",
                             "code": "settlement2",
                             "children": []
                           }
