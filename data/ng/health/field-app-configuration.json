@@ -138,12 +138,8 @@
           "code": "HF_RF_FEVER"
         },
         {
-          "name": "HF_RF_DRUG_SE_PC",
-          "code": "HF_RF_DRUG_SE_PC"
-        },
-        {
-          "name": "HF_RF_DRUG_SE_CC",
-          "code": "HF_RF_DRUG_SE_CC"
+          "name": "HF_RF_DRUG_SE",
+          "code": "HF_RF_DRUG_SE"
         },
         {
           "name": "Health Facility Assessment",
@@ -222,12 +218,12 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_SMC_POPULATOR": [
         {
-          "code": "ADMINISTRATION_SUCCESSFUL",
-          "name": "Readministração com sucesso"
+          "code": "VOMITING",
+          "name": "vomiting"
         },
         {
-          "code": "ADMINISTRATION_NOT_SUCCESSFUL",
-          "name": "Readministração sem sucesso"
+          "code": "OTHERS",
+          "name": "others"
         }
       ],
       "TRANSPORT_TYPES": [
