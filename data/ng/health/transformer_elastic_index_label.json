@@ -25,6 +25,10 @@
     {
       "label": "Settlement",
       "indexLabel": "settlement"
+    },
+    {
+      "label": "Community",
+      "indexLabel": "community"
     }
   ]
 }
