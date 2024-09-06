@@ -389,13 +389,13 @@
           },
           {
             "level": 6,
-            "label": "Settlement",
-            "indexLabel": "settlement"
+            "label": "Community",
+            "indexLabel": "community"
           }
         ],
         "aggregateTarget": {
           "level": 6,
-          "label": "Settlement"
+          "label": "Community"
         },
         "targetColumnHeaders": [
           "total_4",
@@ -852,13 +852,13 @@
           },
           {
             "level": 6,
-            "label": "Settlement",
-            "indexLabel": "settlement"
+            "label": "Community",
+            "indexLabel": "community"
           }
         ],
         "aggregateTarget": {
           "level": 6,
-          "label": "Settlement"
+          "label": "Community"
         },
         "targetColumnHeaders": [
           "total_4",
