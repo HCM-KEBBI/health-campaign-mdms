@@ -246,14 +246,6 @@
         {
           "code": "TRANSPORT_TYPE_5",
           "name": "Motorizadas"
-        },
-        {
-          "code": "Em mão",
-          "name": "Em mão"
-        },
-        {
-          "code": "Trator",
-          "name": "Trator"
         }
       ],
       "BACKEND_INTERFACE": {
