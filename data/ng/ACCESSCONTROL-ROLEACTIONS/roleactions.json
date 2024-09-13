@@ -14260,18 +14260,6 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1897,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "ng"
@@ -14279,12 +14267,6 @@
     {
       "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1895,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1902,
       "actioncode": "",
       "tenantId": "ng"
     },
@@ -14339,24 +14321,6 @@
     {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1895,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1900,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1904,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1901,
       "actioncode": "",
       "tenantId": "ng"
     },
@@ -15993,19 +15957,7 @@
       "tenantId": "ng"
     },
     {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1649,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1649,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1649,
       "actioncode": "",
       "tenantId": "ng"
