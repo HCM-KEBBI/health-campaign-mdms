@@ -229,23 +229,7 @@
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "Camião"
-        },
-        {
-          "code": "TRANSPORT_TYPE_2",
-          "name": "Cabina duple"
-        },
-        {
-          "code": "TRANSPORT_TYPE_3",
-          "name": "Cabina Simple"
-        },
-        {
-          "code": "TRANSPORT_TYPE_4",
-          "name": "Carrinha"
-        },
-        {
-          "code": "TRANSPORT_TYPE_5",
-          "name": "Motorizadas"
+          "name": "Closed Van"
         }
       ],
       "BACKEND_INTERFACE": {
