@@ -18717,18 +18717,6 @@
       "tenantId": "ng"
     },
     {
-      "rolecode": "SYSTEM_ADMINISTRATOR",
-      "actionid": 1918,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
-      "rolecode": "SYSTEM_ADMINISTRATOR",
-      "actionid": 1919,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1911,
       "actioncode": "",
