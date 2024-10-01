@@ -19062,37 +19062,37 @@
       "rolecode": "PGR-ADMIN",
       "actionid": 1594,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1545,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1918,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1919,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     },
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1594,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     },
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1545,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "ng"
     }
   ]
 }
