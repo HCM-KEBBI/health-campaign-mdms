@@ -16251,12 +16251,6 @@
       "tenantId": "ng"
     },
     {
-      "rolecode": "DISTRIBUTOR",
-      "actionid": 1659,
-      "actioncode": "",
-      "tenantId": "ng"
-    },
-    {
       "rolecode": "REGISTRAR",
       "actionid": 1662,
       "actioncode": "",
