@@ -903,27 +903,27 @@
         "projectTargets": [
           {
             "beneficiarytype": "INDIVIDUAL",
-            "targetedColumn": "target_3"
-          },
-          {
-            "beneficiarytype": "3-11MONTH",
-            "targetedColumn": "target_1"
-          },
-          {
-            "beneficiarytype": "12-59MONTH",
-            "targetedColumn": "target_2"
-          },
-          {
-            "beneficiarytype": "PRODUCT",
             "targetedColumn": "target_6"
           },
           {
+            "beneficiarytype": "3-11MONTH",
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "12-59MONTH",
+            "targetedColumn": "target_1"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "target_3"
+          },
+          {
             "beneficiarytype": "SPAQ1",
-            "targetedColumn": "target_4"
+            "targetedColumn": "target_1"
           },
           {
             "beneficiarytype": "SPAQ2",
-            "targetedColumn": "target_5"
+            "targetedColumn": "target_2"
           }
         ]
       }
