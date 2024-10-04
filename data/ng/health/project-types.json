@@ -907,11 +907,11 @@
           },
           {
             "beneficiarytype": "3-11MONTH",
-            "targetedColumn": "target_2"
+            "targetedColumn": "target_4"
           },
           {
             "beneficiarytype": "12-59MONTH",
-            "targetedColumn": "target_1"
+            "targetedColumn": "target_5"
           },
           {
             "beneficiarytype": "PRODUCT",
