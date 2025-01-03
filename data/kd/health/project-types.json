@@ -1,0 +1,932 @@
+{
+  "tenantId": "kd",
+  "moduleName": "HCM-PROJECT-TYPES",
+  "projectTypes": [
+    {
+      "id": "644c4356-5214-11ee-be56-0242ac120009",
+      "name": "configuration for Multi Round Campaigns",
+      "code": "MR-DN",
+      "group": "MALARIA",
+      "beneficiaryType": "INDIVIDUAL",
+      "resources": [
+        {
+          "productVariantId": "PVAR-2024-08-09-000001",
+          "isBaseUnitVariant": false
+        },
+        {
+          "productVariantId": "PVAR-2024-08-09-000002",
+          "isBaseUnitVariant": true
+        }
+      ],
+      "observationStrategy": "DOT1",
+      "validMinAge": 3,
+      "validMaxAge": 62,
+      "cycles": [
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1723161600000,
+          "endDate": 1724112000000,
+          "id": 1,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724112000000,
+          "endDate": 1724544000000,
+          "id": 2,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724544000000,
+          "endDate": 1724630399000,
+          "id": 3,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724630400000,
+          "endDate": 1732127399000,
+          "id": 4,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "State",
+            "indexLabel": "state"
+          },
+          {
+            "level": 3,
+            "label": "LGA",
+            "indexLabel": "lga"
+          },
+          {
+            "level": 4,
+            "label": "Ward",
+            "indexLabel": "ward"
+          },
+          {
+            "level": 5,
+            "label": "Health Facility",
+            "indexLabel": "healthFacility"
+          },
+          {
+            "level": 6,
+            "label": "Community",
+            "indexLabel": "community"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Community"
+        },
+        "targetColumnHeaders": [
+          "total_4",
+          "target_4",
+          "total_1",
+          "target_1",
+          "total_2",
+          "target_2",
+          "total_3",
+          "target_3",
+          "total_5",
+          "target_5",
+          "total_6",
+          "target_6"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_1",
+            "target": "target_1"
+          },
+          {
+            "total": "total_2",
+            "target": "target_2"
+          },
+          {
+            "total": "total_3",
+            "target": "target_3"
+          },
+          {
+            "total": "total_4",
+            "target": "target_4"
+          },
+          {
+            "total": "total_5",
+            "target": "target_5"
+          },
+          {
+            "total": "total_6",
+            "target": "target_6"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "target_3"
+          },
+          {
+            "beneficiarytype": "3-11MONTH",
+            "targetedColumn": "target_1"
+          },
+          {
+            "beneficiarytype": "12-59MONTH",
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "target_6"
+          },
+          {
+            "beneficiarytype": "SPAQ1",
+            "targetedColumn": "target_4"
+          },
+          {
+            "beneficiarytype": "SPAQ2",
+            "targetedColumn": "target_5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "644c4356-5214-11ee-be56-0242ac120002",
+      "name": "configuration for Multi Round Campaigns",
+      "code": "MR-DN",
+      "group": "MALARIA",
+      "beneficiaryType": "INDIVIDUAL",
+      "resources": [
+        {
+          "productVariantId": "PVAR-2024-08-09-000001",
+          "isBaseUnitVariant": false
+        },
+        {
+          "productVariantId": "PVAR-2024-08-09-000002",
+          "isBaseUnitVariant": true
+        }
+      ],
+      "observationStrategy": "DOT1",
+      "validMinAge": 3,
+      "validMaxAge": 62,
+      "cycles": [
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "startDate": 1723161600000,
+          "endDate": 1724112000000,
+          "id": 1,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724112000000,
+          "endDate": 1724544000000,
+          "id": 2,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724544000000,
+          "endDate": 1724630399000,
+          "id": 3,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "startDate": 1724630400000,
+          "endDate": 1732127399000,
+          "id": 4,
+          "deliveries": [
+            {
+              "id": 1,
+              "deliveryStrategy": "DIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "deliveryStrategy": "INDIRECT",
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "doseCriteria": [
+                {
+                  "condition": "3<=age<11",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000001",
+                      "quantity": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "12<=age<59",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2024-08-09-000002",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "boundaryData": {
+        "boundaryHierarchy": [
+          {
+            "level": 0,
+            "label": null,
+            "indexLabel": null
+          },
+          {
+            "level": 1,
+            "label": "Country",
+            "indexLabel": "country"
+          },
+          {
+            "level": 2,
+            "label": "State",
+            "indexLabel": "state"
+          },
+          {
+            "level": 3,
+            "label": "LGA",
+            "indexLabel": "lga"
+          },
+          {
+            "level": 4,
+            "label": "Ward",
+            "indexLabel": "ward"
+          },
+          {
+            "level": 5,
+            "label": "Health Facility",
+            "indexLabel": "healthFacility"
+          },
+          {
+            "level": 6,
+            "label": "Community",
+            "indexLabel": "community"
+          }
+        ],
+        "aggregateTarget": {
+          "level": 6,
+          "label": "Community"
+        },
+        "targetColumnHeaders": [
+          "total_4",
+          "target_4",
+          "total_1",
+          "target_1",
+          "total_2",
+          "target_2",
+          "total_3",
+          "target_3",
+          "total_5",
+          "target_5",
+          "total_6",
+          "target_6"
+        ],
+        "totalVsTarget": [
+          {
+            "total": "total_1",
+            "target": "target_1"
+          },
+          {
+            "total": "total_2",
+            "target": "target_2"
+          },
+          {
+            "total": "total_3",
+            "target": "target_3"
+          },
+          {
+            "total": "total_4",
+            "target": "target_4"
+          },
+          {
+            "total": "total_5",
+            "target": "target_5"
+          },
+          {
+            "total": "total_6",
+            "target": "target_6"
+          }
+        ],
+        "projectTargets": [
+          {
+            "beneficiarytype": "INDIVIDUAL",
+            "targetedColumn": "target_3"
+          },
+          {
+            "beneficiarytype": "3-11MONTH",
+            "targetedColumn": "target_1"
+          },
+          {
+            "beneficiarytype": "12-59MONTH",
+            "targetedColumn": "target_2"
+          },
+          {
+            "beneficiarytype": "PRODUCT",
+            "targetedColumn": "target_6"
+          },
+          {
+            "beneficiarytype": "SPAQ1",
+            "targetedColumn": "target_4"
+          },
+          {
+            "beneficiarytype": "SPAQ2",
+            "targetedColumn": "target_5"
+          }
+        ]
+      }
+    }
+  ]
+}
