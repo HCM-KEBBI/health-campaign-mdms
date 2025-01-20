@@ -30,7 +30,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "0<age<12and2.9<weight<4.1",
+                  "condition": "age>0andage<12andweight>2.9andweight<4.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -39,7 +39,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and4<weight<8.1",
+                  "condition": "age>0andage<12andweight>4andweight<8.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -48,7 +48,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and8<weight<12.1",
+                  "condition": "age>0andage<12andweight>8andweight<12.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -57,7 +57,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and12<weight<15.1",
+                  "condition": "age>0andage<12andweight>12andweight<15.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -66,7 +66,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and49<height<55",
+                  "condition": "age>11andage<60andheight>49andheight<55",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -75,7 +75,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and54<height<66",
+                  "condition": "age>11andage<60andheight>54andheight<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -84,7 +84,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and65<height<77",
+                  "condition": "age>11andage<60andheight>65andheight<77",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -93,7 +93,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and76<height<88",
+                  "condition": "age>11andage<60andheight>76andheight<88",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -102,7 +102,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and87<height<99",
+                  "condition": "age>11andage<60andheight>87andheight<99",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -111,7 +111,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and98<height<111",
+                  "condition": "age>11andage<60andheight>98andheight<111",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -120,7 +120,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and110<height<123",
+                  "condition": "age>11andage<60andheight>110andheight<123",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -129,7 +129,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and122<height<131",
+                  "condition": "age>11andage<60andheight>122andheight<131",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -138,7 +138,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and130<height<139",
+                  "condition": "age>11andage<60andheight>130andheight<139",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -289,7 +289,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "0<age<12and2.9<weight<4.1",
+                  "condition": "age>0andage<12andweight>2.9andweight<4.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -298,7 +298,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and4<weight<8.1",
+                  "condition": "age>0andage<12andweight>4andweight<8.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -307,7 +307,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and8<weight<12.1",
+                  "condition": "age>0andage<12andweight>8andweight<12.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -316,7 +316,7 @@
                   ]
                 },
                 {
-                  "condition": "0<age<12and12<weight<15.1",
+                  "condition": "age>0andage<12andweight>12andweight<15.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -325,7 +325,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and49<height<55",
+                  "condition": "age>11andage<60andheight>49andheight<55",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -334,7 +334,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and54<height<66",
+                  "condition": "age>11andage<60andheight>54andheight<66",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -343,7 +343,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and65<height<77",
+                  "condition": "age>11andage<60andheight>65andheight<77",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -352,7 +352,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and76<height<88",
+                  "condition": "age>11andage<60andheight>76andheight<88",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -361,7 +361,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and87<height<99",
+                  "condition": "age>11andage<60andheight>87andheight<99",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -370,7 +370,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and98<height<111",
+                  "condition": "age>11andage<60andheight>98andheight<111",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -379,7 +379,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and110<height<123",
+                  "condition": "age>11andage<60andheight>110andheight<123",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -388,7 +388,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and122<height<131",
+                  "condition": "age>11andage<60andheight>122andheight<131",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -397,7 +397,7 @@
                   ]
                 },
                 {
-                  "condition": "11<age<60and130<height<139",
+                  "condition": "age>11andage<60andheight>130andheight<139",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
