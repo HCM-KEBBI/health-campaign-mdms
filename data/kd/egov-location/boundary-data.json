@@ -28,35 +28,34 @@
             "code": "uh68LeTh3jKYFzVKvjdHR4x",
             "children": [
               {
-
-                "id": "nsdinQyM2eWozJL2SWuH01",
+                "id": "nsdinQyM2eWozJL2SWuHnM",
                 "boundaryNum": 3,
                 "name": "Kaduna South",
                 "localname": "Kaduna South",
                 "longitude": null,
                 "latitude": null,
                 "label": "LGA",
-                "code": "nsdinQyM2eWozJL2SWuH01",
+                "code": "nsdinQyM2eWozJL2SWuHnM",
                 "children": [
                   {
-                    "id": "DvjTkwXJFaJ8MLaTWZPh01",
+                    "id": "DvjTkwXJFaJ8MLaTWZPh2y",
                     "boundaryNum": 4,
                     "name": "Badiko",
                     "localname": "Badiko",
                     "longitude": null,
                     "latitude": null,
                     "label": "Ward",
-                    "code": "DvjTkwXJFaJ8MLaTWZPh01",
+                    "code": "DvjTkwXJFaJ8MLaTWZPh2y",
                     "children": [
                       {
-                        "id": "6nMYNTBjBb65Bm6ZYXnz01",
+                        "id": "Z9Cd2oECHwroNtRzuopseM",
                         "boundaryNum": 5,
                         "name": " Badikko Primary Health Centre",
                         "localname": " Badikko Primary Health Centre",
                         "longitude": null,
                         "latitude": null,
                         "label": "Health Facility",
-                        "code": "6nMYNTBjBb65Bm6ZYXnz01",
+                        "code": "Z9Cd2oECHwroNtRzuopseM",
                         "children": [
                           {
                             "id": "Z9Cd2oECHwroNtRzuops01",
@@ -87,7 +86,6 @@
                 ]
               },
               {
-
                 "id": "nsdinQyM2eWozJL2SWuH02",
                 "boundaryNum": 3,
                 "name": "Zaria",
