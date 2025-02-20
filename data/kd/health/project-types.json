@@ -30,7 +30,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>0andage<12andweight>2.9andweight<4.1",
+                  "condition": "age>0andage<3andweight<4.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -39,7 +39,70 @@
                   ]
                 },
                 {
-                  "condition": "age>0andage<12andweight>4andweight<8.1",
+                  "condition": "age>0andage<3andweight>4andweight<8.1",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 2
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>0andage<3andweight>8andweight<12.1",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 2
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>0andage<3andweight>12",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 2
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>2andage<5andweight<4.1",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 3
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>2andage<5andweight>4andweight<8.1",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 3
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>2andage<5andweight>8andweight<12.1",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 3
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>2andage<5andweight>12",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 3
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>4andage<12andweight<4.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -48,20 +111,29 @@
                   ]
                 },
                 {
-                  "condition": "age>0andage<12andweight>8andweight<12.1",
+                  "condition": "age>4andage<12andweight>4andweight<8.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 6
+                      "quantity": 4
                     }
                   ]
                 },
                 {
-                  "condition": "age>0andage<12andweight>12andweight<15.1",
+                  "condition": "age>4andage<12andweight>8andweight<12.1",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 8
+                      "quantity": 4
+                    }
+                  ]
+                },
+                {
+                  "condition": "age>4andage<12andweight>12",
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2025-01-03-000003",
+                      "quantity": 4
                     }
                   ]
                 },
