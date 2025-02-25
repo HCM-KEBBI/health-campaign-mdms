@@ -30,15 +30,6 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>0andage<3andweight<3",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
                   "condition": "age>0andage<3andweight>2.9andweight<4.1",
                   "ProductVariants": [
                     {
@@ -71,24 +62,6 @@
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
                       "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>0andage<3andweight>15",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 2
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>2andage<5andweight<3",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 3
                     }
                   ]
                 },
@@ -129,24 +102,6 @@
                   ]
                 },
                 {
-                  "condition": "age>2andage<5andweight>15",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 3
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>4andage<12andweight<3",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 4
-                    }
-                  ]
-                },
-                {
                   "condition": "age>4andage<12andweight>2.9andweight<4.1",
                   "ProductVariants": [
                     {
@@ -175,15 +130,6 @@
                 },
                 {
                   "condition": "age>4andage<12andweight>12andweight<15.1",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 4
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>4andage<12andweight>15",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -406,7 +352,7 @@
         {
           "mandatoryWaitSinceLastCycleInDays": null,
           "startDate": 1735669800000,
-          "endDate": 1740767399000,
+          "endDate": 1746037799000,
           "id": 1,
           "deliveries": [
             {
@@ -415,7 +361,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "doseCriteria": [
                 {
-                  "condition": "age>0andage<12andweight>2.9andweight<4.1",
+                  "condition": "age>0andage<3",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
@@ -424,29 +370,11 @@
                   ]
                 },
                 {
-                  "condition": "age>0andage<12andweight>4andweight<8.1",
+                  "condition": "age>2andage<12",
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2025-01-03-000003",
                       "quantity": 4
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>0andage<12andweight>8andweight<12.1",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 6
-                    }
-                  ]
-                },
-                {
-                  "condition": "age>0andage<12andweight>12andweight<15.1",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2025-01-03-000003",
-                      "quantity": 8
                     }
                   ]
                 },
