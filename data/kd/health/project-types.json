@@ -19,7 +19,7 @@
       "validMaxAge": 59,
       "cycles": [
         {
-          "mandatoryWaitSinceLastCycleInDays": null,
+          "mandatoryWaitSinceLastCycleInDays": "5",
           "startDate": 1735669800000,
           "endDate": 1746037799000,
           "id": 1,
@@ -27,7 +27,7 @@
             {
               "id": 1,
               "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "mandatoryWaitSinceLastDeliveryInDays": "5",
               "doseCriteria": [
                 {
                   "condition": "age>0andage<3andweight>2.9andweight<4.1",
@@ -346,7 +346,7 @@
       "validMaxAge": 59,
       "cycles": [
         {
-          "mandatoryWaitSinceLastCycleInDays": null,
+          "mandatoryWaitSinceLastCycleInDays": "5",
           "startDate": 1735669800000,
           "endDate": 1746037799000,
           "id": 1,
@@ -354,7 +354,7 @@
             {
               "id": 1,
               "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "mandatoryWaitSinceLastDeliveryInDays": "5",
               "doseCriteria": [
                 {
                   "condition": "age>0andage<3",
