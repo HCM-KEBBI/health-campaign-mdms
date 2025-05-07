@@ -19062,31 +19062,31 @@
       "rolecode": "PGR-ADMIN",
       "actionid": 1594,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "kd"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1545,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "kd"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1918,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "kd"
     },
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1919,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "kd"
     },
     {
       "rolecode": "COMMUNITY_DISTRIBUTOR",
       "actionid": 1943,
       "actioncode": "",
-      "tenantId": "mz"
+      "tenantId": "kd"
     }
   ]
 }
