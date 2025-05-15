@@ -1,0 +1,14 @@
+{
+  "tenantId": "kd",
+  "moduleName": "works",
+  "TypeOfDocument": [
+    {
+      "name": "Work Order",
+      "tenantId": "kd"
+    },
+    {
+      "name": "Notice",
+      "tenantId": "kd"
+    }
+  ]
+}
