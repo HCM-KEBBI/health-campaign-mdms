@@ -321,10 +321,6 @@
           {
             "beneficiarytype": "PRODUCT",
             "targetedColumn": "target_4"
-          },
-          {
-            "beneficiarytype": "HOUSEHOLD",
-            "targetedColumn": "target_5"
           }
         ]
       }
@@ -558,10 +554,6 @@
           {
             "beneficiarytype": "PRODUCT",
             "targetedColumn": "target_4"
-          },
-          {
-            "beneficiarytype": "HOUSEHOLD",
-            "targetedColumn": "target_5"
           }
         ]
       }
