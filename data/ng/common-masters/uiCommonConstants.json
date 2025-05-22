@@ -19,6 +19,16 @@
             "isOrigin": true,
             "title": "DISTRICT_DASHBOARD"
           },
+          "national-azt": {
+            "routePath": "/kibana-upgrade/s/azm/app/dashboards?auth_provider_hint=anonymous1#/view/b0bfd944-59bb-4aba-bc59-814214a60d32?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "NATIONAL_DASHBOARD"
+          },
+          "district-azt": {
+            "routePath": "/kibana-upgrade/s/azm/app/dashboards?auth_provider_hint=anonymous1#/view/ddbc6f56-e0dc-4d2f-a699-c9fd99da7bdc?_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DISTRICT_DASHBOARD"
+          },
           "province": {
             "routePath": "/kibana-upgrade/s/national-supervisor/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now%2Fd,to:now))",
             "isOrigin": true,
