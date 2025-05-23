@@ -142,7 +142,7 @@
           "code": "HF_RF_DRUG_SE"
         },
         {
-          "name": "Health Facility Assessment",
+          "name": "HF_ASMT",
           "code": "HF_ASMT"
         },
         {
@@ -152,6 +152,10 @@
         {
           "name": "HFW_PERFORM_ASMT",
           "code": "HFW_PERFORM_ASMT"
+        },
+        {
+          "name": "CDD_PERFORMANCE",
+          "code": "CDD_PERFORMANCE"
         },
         {
           "name": "ELIGIBLITY_ASSESSMENT",
