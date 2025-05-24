@@ -32,7 +32,7 @@
     "Logistico": "LOGISTIC_FOCAL_POINT",
     "Community Distributor": "COMMUNITY_DISTRIBUTOR",
     "Community Supervisor": "COMMUNITY_SUPERVISOR",
-    "Health Facility Supervisor": "HEALTH_FACILITY_SUPERVISOR",
+    "Health Facility Supervisor": "HEALTH_FACILITY_SUPERVISOR,ATTENDANCE_STAFF",
     "Kebbi HF Sup": "HEALTH_FACILITY_SUPERVISOR,ATTENDANCE_STAFF",
     "Attendance Staff": "ATTENDANCE_STAFF",
     "District Attendance Staff": "ATTENDANCE_STAFF,SUPERVISOR,DISTRICT_SUPERVISOR"
